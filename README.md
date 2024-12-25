@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a full stack project
 - 📫 Reach me at joshorzechowski@gmail.com
 
-      _______
+      _______<br>
     .-'       `-.
    /   O     O   \
   |      ___      |
